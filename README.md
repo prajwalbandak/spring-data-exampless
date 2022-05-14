@@ -87,6 +87,7 @@ Local Elasticsearch instance must be running to run the tests.
 ## Spring Data R2DBC
 
 * `example` - Basic usage of Spring Data R2DBC.
+##R2DBC stands for Reactive Relational Database Connectivity
 
 ## Spring Data Redis
 
